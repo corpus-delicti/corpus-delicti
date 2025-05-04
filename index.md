@@ -1,37 +1,10 @@
-## Corpus Delicti
+# Corpus Delicti
+## Murder Mystery RPG - @darofar
 
-You can use the [editor on GitHub](https://github.com/darofar/corpus-delicti/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*¿Quién es el asesino?* Y más importante *¿Quién pagará por el crimen cometido?* 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En Corpus Delicti, los jugadores interpretan a un grupo de brillantes —o al menos entusiastas— investigadores que se enfrentan a la resolución de un asesinato. Entre todos construirán el caso desde cero: la escena del crimen, los sospechosos, la investigación y, finalmente, el juicio contra sospechoso que haya sido incriminado. Cada partida es una historia única, donde la verdad se desvela a golpe de intuición, cooperación y riesgo. Un juego sin director fijo, con reglas ligeras y todo el foco en la narración compartida.
 
-### Markdown
+Reparte los puntos de investigación, inventa pistas, cambia el rol de director en cada escena y observa cómo el caso toma forma. Pero cuidado: las decisiones de grupo pueden llevarte a acusar al verdadero culpable… o a condenar a un inocente. Corpus Delicti es un juego de rol narrativo y agnóstico de ambientación, perfecto para una sesión corta o para experimentar en cualquier trasfondo, desde mundos de fantasía hasta thrillers futuristas. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/darofar/corpus-delicti/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Corpus Delicti v0.1.0 Español](/corpus_delicti_es.md)
