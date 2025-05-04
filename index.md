@@ -4,16 +4,16 @@ En Corpus Delicti, los jugadores interpretan a un grupo de brillantes —o al me
 
 Reparte los puntos de investigación, inventa pistas, cambia el rol de director en cada escena y observa cómo el caso toma forma. Pero cuidado: las decisiones de grupo pueden llevarte a acusar al verdadero culpable… o a condenar a un inocente. Corpus Delicti es un juego de rol narrativo y agnóstico de ambientación, perfecto para una sesión corta o para experimentar en cualquier trasfondo, desde mundos de fantasía hasta thrillers futuristas. 
 
-## Versiones del juego
+# Versiones del juego
 [Corpus Delicti v0.1.0 Español](/corpus_delicti_es.md)
 
-## Sobre el autor 
+# Contacto
 Puedes encontrarme en múltiples sitios con el nickname @darofar. 
 <p>
   <a href="https://github.com/darofar">
     <img src="./assets/github.svg" alt="GitHub" width="24" />
   </a>
-  <a href="https://mastorol.es/@darofar">
+  <a href="https://t.me/darofar">
     <img src="./assets/telegram.svg" alt="Telegram" width="24" />
   </a>
   <a href="https://mastorol.es/@darofar">
