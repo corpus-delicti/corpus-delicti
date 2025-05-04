@@ -9,11 +9,27 @@ Reparte los puntos de investigación, inventa pistas, cambia el rol de director 
 
 ## Sobre el autor 
 Puedes encontrarme en múltiples sitios con el nickname @darofar. 
-
-[![GitHub](./assets/github.svg)](https://github.com/darofar)
-[![Mastodon](./assets/mastodon.svg)](https://mastorol.es/@darofar)
-[![BlueSky](./assets/bluesky.svg)](https://bsky.app/profile/darofar.bsky.social)
-[![Twitter](./assets/x.svg)](https://x.com/darofar)
+<p>
+  <a href="https://github.com/darofar">
+    <img src="./assets/github.svg" alt="GitHub" width="24" />
+  </a>
+  <a href="https://mastorol.es/@darofar">
+    <img src="./assets/telegram.svg" alt="Telegram" width="24" />
+  </a>
+  <a href="https://mastorol.es/@darofar">
+    <img src="./assets/mastodon.svg" alt="Mastodon" width="24" />
+  </a>
+  <a href="https://bsky.app/profile/darofar.bsky.social">
+    <img src="./assets/bluesky.svg" alt="BlueSky" width="24" />
+  </a>
+  <a href="https://x.com/darofar">
+    <img src="./assets/x.svg" alt="Twitter/X" width="24" />
+  </a>
+</p>
 
 Y si has disfrutado del juego y quieres invitarme a un café
-[![BuyMeACoffe](./assets/buymeacoffee.svg)](https://paypal.me/darofar/)
+<p>
+  <a href="https://paypal.me/darofar/">
+    <img src="./assets/buymeacoffee.svg" alt="BuyMeACoffee" width="24" />
+  </a>
+</p>
