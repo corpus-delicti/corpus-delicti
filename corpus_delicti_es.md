@@ -1,3 +1,21 @@
+---
+layout: default
+title: Corpus Delicti
+---
+
+<header>
+    <a href="{{ '/' | relative_url }}" class="header-link">
+    <span class="ribbon-outer">
+        <span class="ribbon-inner">
+        <h1>{{ site.title }} MODIFICADO</h1>
+        <h2>{{ site.description }}</h2>
+        </span>
+        <span class="left-tail"></span>
+        <span class="right-tail"></span>
+    </span>
+    </a>
+</header>
+
 #### Un juego narrativo de 2 a 4 jugadores
 Un crimen atroz ha sacudido a la comunidad. Para resolverlo, se ha reunido a los mejores investigadores, y tú eres uno de ellos.
 
