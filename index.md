@@ -1,21 +1,3 @@
----
-layout: default
-title: Corpus Delicti
----
-
-<header>
-    <a href="{{ '/' | relative_url }}" class="header-link">
-    <span class="ribbon-outer">
-        <span class="ribbon-inner">
-        <h1>{{ site.title }} MODIFICADO</h1>
-        <h2>{{ site.description }}</h2>
-        </span>
-        <span class="left-tail"></span>
-        <span class="right-tail"></span>
-    </span>
-    </a>
-</header>
-
 *¿Quién es el asesino?* Y más importante *¿Quién pagará por el crimen cometido?* 
 
 En Corpus Delicti, los jugadores interpretan a un grupo de brillantes —o al menos entusiastas— investigadores que se enfrentan a la resolución de un asesinato. Entre todos construirán el caso desde cero: la escena del crimen, los sospechosos, la investigación y, finalmente, el juicio contra sospechoso que haya sido incriminado. Cada partida es una historia única, donde la verdad se desvela a golpe de intuición, cooperación y riesgo. Un juego sin director fijo, con reglas ligeras y todo el foco en la narración compartida.
