@@ -1,5 +1,4 @@
-# CORPUS DELICTI 
-### de 2 a 4 jugadores
+#### Un juego narrativo de 2 a 4 jugadores
 Un crimen atroz ha sacudido a la comunidad. Para resolverlo, se ha reunido a los mejores investigadores, y tú eres uno de ellos.
 
 ## LOS PERSONAJES
