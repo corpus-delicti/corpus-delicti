@@ -9,7 +9,7 @@ Reparte los puntos de investigación, inventa pistas, cambia el rol de director 
 * [Corpus Delicti v1.0.0 English](/corpus_delicti_en.md)
 
 # Contacto
-Puedes encontrarme en múltiples sitios con el nickname @darofar. 
+Puedes encontrarme en múltiples sitios con el nickname **@darofar**. 
 <p>
   <a href="https://github.com/darofar">
     <img src="./assets/github.svg" alt="GitHub" width="24" />
