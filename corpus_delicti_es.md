@@ -19,17 +19,17 @@ El siguiente **Líder de la Investigación** debe presentar al primer sospechoso
 El siguiente **Líder de la Investigación** debe presentar al segundo sospechoso: el **Sospechoso Impar**. El líder debe explicar cómo ha sido implicado en el asesinato, su nombre de pila, quién es y cómo se le conoce en la comunidad. Anota su nombre y los detalles relevantes en un trozo de papel visible para todos. Luego, el liderazgo pasa a la izquierda.
 
 ## LA INVESTIGACIÓN
-A partir de este momento se sucederán una serie de **Escenas de Investigación**, con un nuevo líder encargado de facilitar la escena. Todos los jugadores, líder incluído, deberán describir las acciones que llevan a cabo sus personajes para recabar información. Cuando la escena se considera agotada se realiza una votación. 
+A partir de este momento se sucederán una serie de **Escenas de Investigación**, con un nuevo líder encargado de facilitar la escena. Todos los jugadores, líder incluído, deberán describir las acciones que llevan a cabo sus personajes para recabar información. 
 
-Cada jugador puede apostar cualquier número de **Puntos de Investigación** de su **Reserva**, en secreto escogerá el valor que presentarán sus dados apostados, eligiendo valores pares si cree que las pistas recabadas deben apuntar al **Sospechoso Par**, o impares si deben apuntar al **Sopechoso Impar**. Es posible apostar 0 dados, el líder de esta escena es el único que está obligado a apostar al menos un **Punto de Investigación**. 
+Cuando la escena se considera agotada se realiza una votación. Cada jugador apuesta cualquier número de **Puntos de Investigación** de su **Reserva**. Para hacerlo escoge en secreto el valor que presentan sus dados apostados, eligiendo valores pares si cree que las pistas recabadas deben apuntar al **Sospechoso Par**, o impares si deben apuntar al **Sopechoso Impar**. Los jugadores pueden elegir no apostar dados, no obstante, el líder de esta escena está obligado a apostar al menos un **Punto de Investigación**. 
 
-Cuenta el número de dados mostrando un resultado par y el número de dados mostrando un resultado impar. El **Líder de la Investigación** debe narrar el fin de la escena introduciendo en la narración  de la votación. 
+Cuando todos los jugadores estén satisfechos con su apuesta revelerán a la vez los dados. Cuenta el número de dados mostrando un resultado par y el número de dados mostrando un resultado impar. El **Líder de la Investigación** debe narrar el fin de la escena introduciendo en la narración el resultado de la votación. 
 
-* Si hay mayoría par, las pistas apuntan al Sospechoso Par.
-* Si hay mayoría impar, apuntan al Sospechoso Impar.
-* Si hay empate, las pistas son inconclusas o comprometidas.
+* Si hay mayoría par, las pistas recabadas apuntan al Sospechoso Par.
+* Si hay mayoría impar, las pistas recabadas apuntan al Sospechoso Impar.
+* Si hay empate, las pistas recabadas en la escena son inconclusas o han sido comprometidas.
 
-Recoge los dados del sospechoso que ha salido seleccionado en la votación y colócalos sobre el trozo de papel que lo representa. El resto de dados, aquellos que apostaban por el sospechoso que no ha salido elegido, llévalos a una reserva especial llamada **Reserva del Epílogo**. 
+Recoge los dados del sospechoso que ha salido seleccionado en la votación y colócalos sobre el trozo de papel que lo representa. El resto de dados, aquellos que apostaban por el sospechoso que no ha salido elegido, llévalos a una reserva especial llamada **Reserva del Epílogo**. En caso de empate los dados irán todos a la **Reserva de Epílogo**.
 
 Cuando los jugadores hayan agotado sus **Reservas**, no habrá más escenas de investigación y se procede a resolver el caso. 
 
